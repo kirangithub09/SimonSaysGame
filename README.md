@@ -53,7 +53,7 @@ git clone https://github.com/codingBeast25/Simon-Game.git
 ```bash
 cd Simon-Game
 ```
-5. Open index.html in your browser and enjoy the game!
+5. Open index.html in your browser and enjoy the game!!
 
 ---
 
