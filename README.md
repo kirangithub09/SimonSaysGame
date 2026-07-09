@@ -12,6 +12,12 @@ This project helped me strengthen my understanding of how JavaScript interacts w
 
 ---
 
+🚀 Live Demo
+
+https://kirangithub09.github.io/SimonSaysGame/
+
+---
+
 ✨ Features
 
 🎮 Classic Simon Says gameplay
